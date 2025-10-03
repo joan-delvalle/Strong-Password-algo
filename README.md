@@ -1,1 +1,1 @@
-# Strong-Password-algo
+# Strong-Password-algo The function checks which types of characters (lowercase, uppercase, digit, special) are missing from the password. It then calculates the minimum number of characters needed to satisfy both the character type requirements and the minimum length of 6.
